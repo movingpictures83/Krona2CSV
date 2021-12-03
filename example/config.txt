@@ -1,0 +1,2 @@
+Prefix plugins/Krona2CSV/example
+Plugin Krona2CSV inputfile input.krona outputfile sample
